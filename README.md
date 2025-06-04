@@ -120,7 +120,7 @@ AfricaCERT / ngCERT (Nigeria Computer Emergency Response Team) – Regional and 
 
 ## 📄 Full Report
 
-📥 [Download: Final Threat Intelligence Report (DOCX)](./final%20on%20TI%20REPORT.docx)
+📥 [Download: Final Threat Intelligence Report (DOCX) final%20on%20TI%20REPORT.docx
 
 ---
 
