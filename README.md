@@ -6,13 +6,9 @@
 **Tool Used:** `theHarvester`  
  
 
----
-
 ## 📌 Executive Summary
 
 This report presents the findings of a passive reconnaissance assessment of Hapuna Financial Ltd, a fintech institution offering savings and loan services. The assessment was designed to identify publicly available information that could potentially expose the organization to cybersecurity threats. Using tools like `theHarvester`, public OSINT sources were queried to discover exposed data. No active scanning was performed.
-
----
 
 ## 🛠️In the course of this project, several open-source intelligence (OSINT) platforms and threat intelligence communities were leveraged to assess the level of public exposure of Hapuna Financial Ltd. These sources provided passive insights into the organization’s infrastructure, email footprint, and external reputation.
 
@@ -54,8 +50,6 @@ This report presents the findings of a passive reconnaissance assessment of Hapu
 | Credential Reuse | Public email leaks may allow reuse-based attacks |
 
 
----
-
 ## Participation in the following threat intelligence communities will significantly enhance Hapuna's security posture:
 
 FS-ISAC (Financial Services Information Sharing and Analysis Center) – Provides timely, relevant cyber threat intelligence tailored for the financial sector.
@@ -81,8 +75,6 @@ AfricaCERT / ngCERT (Nigeria Computer Emergency Response Team) – Regional and 
 - **EvilCorp** – Dridex malware, RaaS  
 - **Silence Group** – ATM fraud, email compromise
 
----
-
 ## 🧠 Historical Campaigns by DPRK Actors
 
 - **Bangladesh Bank Heist (APT38)** – $81M stolen via SWIFT fraud  
@@ -90,8 +82,6 @@ AfricaCERT / ngCERT (Nigeria Computer Emergency Response Team) – Regional and 
 - **WannaCry (Lazarus)** – Global ransomware  
 - **Bank of Chile (APT38)** – $10M financial breach  
 - **APT37 Mobile Espionage** – Android malware for surveillance
-
----
 
 ## 🧩 APT38 – MITRE ATT&CK Mapping
 
@@ -106,8 +96,6 @@ AfricaCERT / ngCERT (Nigeria Computer Emergency Response Team) – Regional and 
 | T1003 | Credential Dumping | Credential Access | Extract stored passwords |
 | T1027 | Obfuscation | Defense Evasion | Encode payloads |
 
----
-
 ## 🔐 Security Recommendations
 
 - Limit public exposure of employee emails  
@@ -116,16 +104,11 @@ AfricaCERT / ngCERT (Nigeria Computer Emergency Response Team) – Regional and 
 - Use multi-factor authentication (MFA) across services  
 - Subscribe to intel feeds for monitoring leaks  
 
-
-
 📥### 📄 Full Report  
-📥 **Download:** [Final Threat Intelligence Report (DOCX)](./Final_Threat_Intelligence_Report.docx)
-
----
+📥 [Download Report](./TI/Final_Threat_Intelligence_Report.docx)
 
 ## 📘 Sample theHarvester Command
 
-```bash
 theHarvester -d hapuna-nigeria.org -b all -l 200 -f hapuna_report.html
 
 🤝 Contributions
