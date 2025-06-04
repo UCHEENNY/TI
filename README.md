@@ -116,12 +116,11 @@ AfricaCERT / ngCERT (Nigeria Computer Emergency Response Team) – Regional and 
 - Use multi-factor authentication (MFA) across services  
 - Subscribe to intel feeds for monitoring leaks  
 
----
 
-## 📄 Full Report
 
-📥 [Download: Final Threat Intelligence Report (DOCX) final%20on%20TI%20REPORT.docx
-https://github.com/UCHEENNY/TI/commit/a2ad6a00f287cf2ae69d41bde0aff6649df84429
+📥### 📄 Full Report  
+📥 **Download:** [Final Threat Intelligence Report (DOCX)](./Final_Threat_Intelligence_Report.docx)
+
 ---
 
 ## 📘 Sample theHarvester Command
