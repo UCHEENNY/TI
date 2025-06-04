@@ -128,3 +128,9 @@ AfricaCERT / ngCERT (Nigeria Computer Emergency Response Team) – Regional and 
 
 ```bash
 theHarvester -d hapuna-nigeria.org -b all -l 200 -f hapuna_report.html
+
+🤝 Contributions
+I am open to feedback, collaborations, and shared learning. If you're also pivoting into cybersecurity, let's connect and support each other.
+
+📬 Contact
+www.linkedin.com/in/abiodun-uche • abioduneniola24@gmail.com •
