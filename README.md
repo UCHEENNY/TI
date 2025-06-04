@@ -121,7 +121,7 @@ AfricaCERT / ngCERT (Nigeria Computer Emergency Response Team) – Regional and 
 ## 📄 Full Report
 
 📥 [Download: Final Threat Intelligence Report (DOCX) final%20on%20TI%20REPORT.docx
-
+https://github.com/UCHEENNY/TI/commit/a2ad6a00f287cf2ae69d41bde0aff6649df84429
 ---
 
 ## 📘 Sample theHarvester Command
